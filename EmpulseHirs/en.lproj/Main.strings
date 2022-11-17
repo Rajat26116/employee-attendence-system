@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "Md Minhaj Arefin Fahim"; ObjectID = "6C7-xI-kaE"; */
+"6C7-xI-kaE.text" = "Md Minhaj Arefin Fahim";
+
+/* Class = "UITextField"; placeholder = "Server Url"; ObjectID = "6PM-pn-5Mz"; */
+"6PM-pn-5Mz.placeholder" = "Server Url";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7QA-zV-BPg"; */
+"7QA-zV-BPg.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "7qG-s9-jci"; */
+"7qG-s9-jci.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7qG-s9-jci"; */
+"7qG-s9-jci.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Attendance"; ObjectID = "9gZ-qD-zTM"; */
+"9gZ-qD-zTM.text" = "Attendance";
+
+/* Class = "UIButton"; configuration.title = "Punch Out"; ObjectID = "Gko-xs-EGF"; */
+"Gko-xs-EGF.configuration.title" = "Punch Out";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Gko-xs-EGF"; */
+"Gko-xs-EGF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "My Tasks"; ObjectID = "Hoj-1z-T3m"; */
+"Hoj-1z-T3m.text" = "My Tasks";
+
+/* Class = "UITextField"; placeholder = "Employee ID"; ObjectID = "KGI-uT-Wev"; */
+"KGI-uT-Wev.placeholder" = "Employee ID";
+
+/* Class = "UILabel"; text = "Leave"; ObjectID = "OOs-D5-Tvu"; */
+"OOs-D5-Tvu.text" = "Leave";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UFl-oC-az0"; */
+"UFl-oC-az0.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YSt-ib-0xE"; */
+"YSt-ib-0xE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Punch"; ObjectID = "aVP-Zr-gIy"; */
+"aVP-Zr-gIy.text" = "Punch";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dkr-Te-f48"; */
+"dkr-Te-f48.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gdu-Bf-8yv"; */
+"gdu-Bf-8yv.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "iUR-ys-VlL"; */
+"iUR-ys-VlL.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lBf-qG-ZYl"; */
+"lBf-qG-ZYl.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Md Minhaj Arefin Fahim"; ObjectID = "tl6-UB-ayN"; */
+"tl6-UB-ayN.text" = "Md Minhaj Arefin Fahim";
+
+/* Class = "UIButton"; configuration.title = "Punch In"; ObjectID = "yoC-je-g05"; */
+"yoC-je-g05.configuration.title" = "Punch In";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yoC-je-g05"; */
+"yoC-je-g05.normalTitle" = "Button";
