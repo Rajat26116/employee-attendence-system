@@ -1,8 +1,7 @@
 # employee-attendence-system
 This app handles employee's checkIn and checkOut details with current location. 
 
-<img src = "https://user-images.githubusercontent.com/118329797/202358049-2b4601d3-589c-4573-b285-d4bd3afc1e92.gif" width = "200" height = "410" />
-
+<img src = "https://user-images.githubusercontent.com/118329797/202358643-1006f1c0-8db5-42a8-abe3-e50f6c0c109e.gif" width = "200" height = "410" />
 
 ## Techniques
 - Model-View-ViewModel(MVVM)
